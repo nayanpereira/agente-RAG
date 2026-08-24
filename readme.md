@@ -30,7 +30,7 @@ O projeto foi estruturado em módulos para separar a ingestão de dados, o proce
 
 1. **Clone o repositório e acesse a pasta:**
    ```bash
-   git clone <seu-repositorio>
+   git clone https://github.com/nayanpereira/agente-RAG.git
    cd <sua-pasta>
 
 
